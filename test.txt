@@ -1,3 +1,4 @@
 input1 from 050114dragon
 input1 from zslmfyx
 input2 from zslmfyx test.txt
+input3 from zslmfyx test.txt
